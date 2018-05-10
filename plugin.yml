@@ -1,0 +1,11 @@
+name: NomadSVCore
+main: me.Nomad.SVCore.Main
+version: 1.0
+
+commands:
+    clearchat:
+      description: Clear Chat command.
+    cc:
+      description: Shortcut CC command.
+    svb:
+      description: Main Broadcast command.
